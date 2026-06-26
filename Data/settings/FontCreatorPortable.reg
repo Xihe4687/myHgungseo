@@ -6,7 +6,7 @@ REGEDIT4
 
 [HKEY_CURRENT_USER\Software\High-Logic\FontCreator\13.0\AddCharacters]
 "SelectedFont"="Agency FB"
-"SelectedCharacter"=dword:00006985
+"SelectedCharacter"=dword:00009e2e
 
 [HKEY_CURRENT_USER\Software\High-Logic\FontCreator\13.0\Background]
 "BackgroundInitColor"=dword:0000ffff
@@ -55,10 +55,10 @@ REGEDIT4
 "SampleFileName"=""
 "CompleteCompositesAction"=dword:00000001
 "GlyphPropsExpanded"=dword:00000000
-"OpenDialogInitialDir2"="C:\\Users\\orangecheng\\Downloads\\"
+"OpenDialogInitialDir2"="C:\\Users\\orangecheng\\Desktop\\my-project\\myHgungseo\\"
 "ChildWindowState"=dword:00000002
 "OverviewGridZoom"=hex:00,00,00,00,00,00,f0,3f
-"OverviewFontZoom"=dword:00000030
+"OverviewFontZoom"=dword:0000002f
 "OverviewSampleFont"="Arial"
 "OverviewShowSample"=dword:00000001
 "GlyphCaptionAuto"=dword:00000000
@@ -68,6 +68,8 @@ REGEDIT4
 "GlyphFillAlpha"=dword:000000ff
 "SaveDialogInitialDirNew2"="C:\\Users\\orangecheng\\Desktop\\my-project\\myHgungseo\\"
 "ExportSettingsPage"=dword:00000000
+"SettingsPage"=dword:00000000
+"CustomNamingShowOutputContent"=dword:00000001
 
 [HKEY_CURRENT_USER\Software\High-Logic\FontCreator\13.0\Last Time]
 "File_0"="C:\\Users\\orangecheng\\Desktop\\my-project\\myHgungseo\\???发.fcp"
@@ -86,6 +88,7 @@ REGEDIT4
 
 [HKEY_CURRENT_USER\Software\High-Logic\FontCreator\13.0\Most Recently Used Projects]
 "File_0"="C:\\Users\\orangecheng\\Desktop\\my-project\\myHgungseo\\???发.fcp"
+"File_1"="C:\\Users\\orangecheng\\Desktop\\my-project\\myHgungseo\\???发.fcp"
 
 [HKEY_CURRENT_USER\Software\High-Logic\FontCreator\13.0\Options]
 "OnStartupOpenFonts"=dword:00000001
@@ -96,6 +99,7 @@ REGEDIT4
 "VectorImageEPSOriginX"=hex:00,00,00,00,00,00,59,40
 "VectorImageEPSOriginY"=hex:00,00,00,00,00,c0,82,40
 "AlwaysCreateBackupCopy"=dword:00000000
+"PanoseValueHexadecimal"=dword:00000000
 
 [HKEY_CURRENT_USER\Software\High-Logic\FontCreator\13.0\Position]
 
@@ -106,7 +110,7 @@ REGEDIT4
 "Position"="691,557"
 
 [HKEY_CURRENT_USER\Software\High-Logic\FontCreator\13.0\Position\Main Window]
-"Position"="0,0,96,52,1728,929"
+"Position"="0,0,110,60,1728,929"
 
 [HKEY_CURRENT_USER\Software\High-Logic\FontCreator\13.0\Position\Toolbars]
 
@@ -125,7 +129,7 @@ REGEDIT4
 "DockedTo"="TBDockTop"
 "LastDock"="TBDockTop"
 "DockRow"="3"
-"DockPos"="-5"
+"DockPos"="0"
 "FloatLeft"="0"
 "FloatTop"="0"
 "FloatRightX"="0"
@@ -149,7 +153,7 @@ REGEDIT4
 "DockedTo"="TBDockTop"
 "LastDock"="TBDockTop"
 "DockRow"="3"
-"DockPos"="303"
+"DockPos"="400"
 "FloatLeft"="0"
 "FloatTop"="0"
 "FloatRightX"="0"
@@ -161,7 +165,7 @@ REGEDIT4
 "DockedTo"="TBDockTop"
 "LastDock"="TBDockTop"
 "DockRow"="4"
-"DockPos"="119"
+"DockPos"="127"
 "FloatLeft"="0"
 "FloatTop"="0"
 "FloatRightX"="0"
@@ -185,7 +189,7 @@ REGEDIT4
 "DockedTo"="TBDockTop"
 "LastDock"="TBDockTop"
 "DockRow"="4"
-"DockPos"="-3"
+"DockPos"="0"
 "FloatLeft"="0"
 "FloatTop"="0"
 "FloatRightX"="0"
@@ -221,7 +225,7 @@ REGEDIT4
 "DockedTo"="TBDockTop"
 "LastDock"="TBDockTop"
 "DockRow"="1"
-"DockPos"="0"
+"DockPos"="502"
 "FloatLeft"="0"
 "FloatTop"="0"
 "FloatRightX"="0"
@@ -277,13 +281,13 @@ REGEDIT4
 
 [HKEY_CURRENT_USER\Software\High-Logic\FontCreator\13.0\Position\Toolbars\twFindCharacter]
 "Rev"="2000"
-"Visible"="0"
+"Visible"="1"
 "DockedTo"="+"
 "LastDock"=""
 "DockRow"="0"
 "DockPos"="-1"
-"FloatLeft"="1384"
-"FloatTop"="345"
+"FloatLeft"="437"
+"FloatTop"="440"
 "ClientWidth"="326"
 "ClientHeight"="147"
 
@@ -487,11 +491,13 @@ REGEDIT4
 "GlyphFillAlpha"=dword:000000ff
 
 [HKEY_CURRENT_USER\Software\High-Logic\FontCreator\14.0\Last Time]
-"File_0"="C:\\Users\\orangecheng\\Desktop\\my-project\\myHgungseo\\???发.fcp"
+"File_0"="C:\\Users\\orangecheng\\Downloads\\???发 (1).ttf"
+"File_1"="C:\\Users\\orangecheng\\Downloads\\???发 (1).ttf"
 
 [HKEY_CURRENT_USER\Software\High-Logic\FontCreator\14.0\Most Recently Used Files]
-"File_0"="C:\\Users\\orangecheng\\Desktop\\my-project\\myHgungseo\\HGungseo Regular.ttf"
-"File_1"="C:\\Users\\orangecheng\\Desktop\\my-project\\myHgungseo\\???发 Regular.ttf"
+"File_0"="C:\\Users\\orangecheng\\Downloads\\???发 (1).ttf"
+"File_1"="C:\\Users\\orangecheng\\Desktop\\my-project\\myHgungseo\\HGungseo Regular.ttf"
+"File_2"="C:\\Users\\orangecheng\\Desktop\\my-project\\myHgungseo\\???发 Regular.ttf"
 
 [HKEY_CURRENT_USER\Software\High-Logic\FontCreator\14.0\Most Recently Used Projects]
 "File_0"="C:\\Users\\orangecheng\\Desktop\\my-project\\myHgungseo\\???发.fcp"
