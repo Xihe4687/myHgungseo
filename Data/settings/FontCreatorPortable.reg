@@ -6,7 +6,7 @@ REGEDIT4
 
 [HKEY_CURRENT_USER\Software\High-Logic\FontCreator\13.0\AddCharacters]
 "SelectedFont"="Agency FB"
-"SelectedCharacter"=dword:00009e2e
+"SelectedCharacter"=dword:00005a21
 
 [HKEY_CURRENT_USER\Software\High-Logic\FontCreator\13.0\Background]
 "BackgroundInitColor"=dword:0000ffff
@@ -21,7 +21,7 @@ REGEDIT4
 "Title3"="External 3"
 
 [HKEY_CURRENT_USER\Software\High-Logic\FontCreator\13.0\Font Overview]
-"CategoryWidth"=dword:ffffff27
+"CategoryWidth"=dword:000000d9
 
 [HKEY_CURRENT_USER\Software\High-Logic\FontCreator\13.0\Fonts]
 "ExportExcludeLegacy"=dword:00000001
@@ -55,7 +55,7 @@ REGEDIT4
 "SampleFileName"=""
 "CompleteCompositesAction"=dword:00000001
 "GlyphPropsExpanded"=dword:00000000
-"OpenDialogInitialDir2"="C:\\Users\\orangecheng\\Desktop\\my-project\\myHgungseo\\"
+"OpenDialogInitialDir2"="C:\\Users\\orangecheng\\Downloads\\"
 "ChildWindowState"=dword:00000002
 "OverviewGridZoom"=hex:00,00,00,00,00,00,f0,3f
 "OverviewFontZoom"=dword:0000002f
@@ -70,6 +70,7 @@ REGEDIT4
 "ExportSettingsPage"=dword:00000000
 "SettingsPage"=dword:00000000
 "CustomNamingShowOutputContent"=dword:00000001
+"NewFontIncludeOutlines"=dword:00000001
 
 [HKEY_CURRENT_USER\Software\High-Logic\FontCreator\13.0\Last Time]
 "File_0"="C:\\Users\\orangecheng\\Desktop\\my-project\\myHgungseo\\???发.fcp"
@@ -81,10 +82,24 @@ REGEDIT4
 "MetricsAndKerningKerningEnabled"=dword:00000001
 
 [HKEY_CURRENT_USER\Software\High-Logic\FontCreator\13.0\Most Recently Used Files]
-"File_0"="C:\\Users\\orangecheng\\Downloads\\???发.ttf"
-"File_1"="C:\\Users\\orangecheng\\Downloads\\???发 Regular.ttf"
-"File_2"="C:\\Users\\orangecheng\\Desktop\\my-project\\myHgungseo\\HGungseo Regular.ttf"
-"File_3"="C:\\Users\\orangecheng\\Desktop\\my-project\\myHgungseo\\???发 Regular.ttf"
+"File_0"="C:\\Users\\orangecheng\\Downloads\\???发 (1).ttf"
+"File_1"="C:\\Users\\orangecheng\\Desktop\\my-project\\myHgungseo\\???发_base.ttf"
+"File_2"="C:\\Users\\orangecheng\\Downloads\\mingliu_1.ttf"
+"File_3"="C:\\Users\\orangecheng\\Downloads\\mingliu_2.ttf"
+"File_4"="C:\\Users\\orangecheng\\Downloads\\mingliu_3.ttf"
+"File_5"="C:\\Users\\orangecheng\\Downloads\\mingliu_0.ttf"
+"File_6"="C:\\Users\\orangecheng\\Downloads\\mingliu.ttc"
+"File_7"="C:\\Users\\orangecheng\\Downloads\\mingliub_2.ttf"
+"File_8"="C:\\Users\\orangecheng\\Downloads\\mingliub_3.ttf"
+"File_9"="C:\\Users\\orangecheng\\Downloads\\mingliub_1.ttf"
+"File_10"="C:\\Users\\orangecheng\\Downloads\\mingliub_0.ttf"
+"File_11"="C:\\Users\\orangecheng\\Downloads\\mingliub.ttc"
+"File_12"="C:\\Users\\orangecheng\\Downloads\\???发 Regular.ttf"
+"File_13"="C:\\Users\\orangecheng\\Downloads\\???发.ttf"
+"File_14"="C:\\Users\\orangecheng\\Downloads\\???发.ttf"
+"File_15"="C:\\Users\\orangecheng\\Downloads\\???发 Regular.ttf"
+"File_16"="C:\\Users\\orangecheng\\Desktop\\my-project\\myHgungseo\\HGungseo Regular.ttf"
+"File_17"="C:\\Users\\orangecheng\\Desktop\\my-project\\myHgungseo\\???发 Regular.ttf"
 
 [HKEY_CURRENT_USER\Software\High-Logic\FontCreator\13.0\Most Recently Used Projects]
 "File_0"="C:\\Users\\orangecheng\\Desktop\\my-project\\myHgungseo\\???发.fcp"
@@ -286,8 +301,8 @@ REGEDIT4
 "LastDock"=""
 "DockRow"="0"
 "DockPos"="-1"
-"FloatLeft"="437"
-"FloatTop"="440"
+"FloatLeft"="845"
+"FloatTop"="733"
 "ClientWidth"="326"
 "ClientHeight"="147"
 
