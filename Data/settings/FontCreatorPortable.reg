@@ -6,7 +6,7 @@ REGEDIT4
 
 [HKEY_CURRENT_USER\Software\High-Logic\FontCreator\13.0\AddCharacters]
 "SelectedFont"="Agency FB"
-"SelectedCharacter"=dword:00005a21
+"SelectedCharacter"=dword:000037cf
 
 [HKEY_CURRENT_USER\Software\High-Logic\FontCreator\13.0\Background]
 "BackgroundInitColor"=dword:0000ffff
@@ -55,8 +55,8 @@ REGEDIT4
 "SampleFileName"=""
 "CompleteCompositesAction"=dword:00000001
 "GlyphPropsExpanded"=dword:00000000
-"OpenDialogInitialDir2"="C:\\Users\\orangecheng\\Downloads\\"
-"ChildWindowState"=dword:00000002
+"OpenDialogInitialDir2"="C:\\Users\\orangecheng\\Desktop\\my-project\\myHgungseo\\"
+"ChildWindowState"=dword:00000000
 "OverviewGridZoom"=hex:00,00,00,00,00,00,f0,3f
 "OverviewFontZoom"=dword:0000002f
 "OverviewSampleFont"="Arial"
@@ -96,10 +96,8 @@ REGEDIT4
 "File_11"="C:\\Users\\orangecheng\\Downloads\\mingliub.ttc"
 "File_12"="C:\\Users\\orangecheng\\Downloads\\???发 Regular.ttf"
 "File_13"="C:\\Users\\orangecheng\\Downloads\\???发.ttf"
-"File_14"="C:\\Users\\orangecheng\\Downloads\\???发.ttf"
-"File_15"="C:\\Users\\orangecheng\\Downloads\\???发 Regular.ttf"
-"File_16"="C:\\Users\\orangecheng\\Desktop\\my-project\\myHgungseo\\HGungseo Regular.ttf"
-"File_17"="C:\\Users\\orangecheng\\Desktop\\my-project\\myHgungseo\\???发 Regular.ttf"
+"File_14"="C:\\Users\\orangecheng\\Desktop\\my-project\\myHgungseo\\HGungseo Regular.ttf"
+"File_15"="C:\\Users\\orangecheng\\Desktop\\my-project\\myHgungseo\\???发 Regular.ttf"
 
 [HKEY_CURRENT_USER\Software\High-Logic\FontCreator\13.0\Most Recently Used Projects]
 "File_0"="C:\\Users\\orangecheng\\Desktop\\my-project\\myHgungseo\\???发.fcp"
@@ -301,8 +299,8 @@ REGEDIT4
 "LastDock"=""
 "DockRow"="0"
 "DockPos"="-1"
-"FloatLeft"="845"
-"FloatTop"="733"
+"FloatLeft"="320"
+"FloatTop"="557"
 "ClientWidth"="326"
 "ClientHeight"="147"
 
