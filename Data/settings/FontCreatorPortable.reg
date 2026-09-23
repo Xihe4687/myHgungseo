@@ -6,11 +6,14 @@ REGEDIT4
 
 [HKEY_CURRENT_USER\Software\High-Logic\FontCreator\13.0\AddCharacters]
 "SelectedFont"="Agency FB"
-"SelectedCharacter"=dword:000037cf
+"SelectedCharacter"=dword:000094e6
 
 [HKEY_CURRENT_USER\Software\High-Logic\FontCreator\13.0\Background]
 "BackgroundInitColor"=dword:0000ffff
 "BackgroundInitScale"=hex:00,00,00,00,00,00,f0,3f
+
+[HKEY_CURRENT_USER\Software\High-Logic\FontCreator\13.0\Exchange]
+"OutlineFormat"=dword:00000000
 
 [HKEY_CURRENT_USER\Software\High-Logic\FontCreator\13.0\Externals]
 "Location1"=""
@@ -42,6 +45,7 @@ REGEDIT4
 "FilledOutline"=dword:00000001
 "ShowConnectionsBetweenPoints"=dword:00000000
 "ShowFirstAndLastPointIndicators"=dword:00000000
+"ShowToolbarWindowMembers"=dword:00000000
 
 [HKEY_CURRENT_USER\Software\High-Logic\FontCreator\13.0\GUI]
 "UpdateCheckInterval"=dword:00000000
@@ -56,7 +60,7 @@ REGEDIT4
 "CompleteCompositesAction"=dword:00000001
 "GlyphPropsExpanded"=dword:00000000
 "OpenDialogInitialDir2"="C:\\Users\\orangecheng\\Desktop\\my-project\\myHgungseo\\"
-"ChildWindowState"=dword:00000000
+"ChildWindowState"=dword:00000002
 "OverviewGridZoom"=hex:00,00,00,00,00,00,f0,3f
 "OverviewFontZoom"=dword:0000002f
 "OverviewSampleFont"="Arial"
@@ -71,6 +75,8 @@ REGEDIT4
 "SettingsPage"=dword:00000000
 "CustomNamingShowOutputContent"=dword:00000001
 "NewFontIncludeOutlines"=dword:00000001
+"OpenDialogInitialDirImportImage2"="C:\\Users\\orangecheng\\Desktop\\"
+"OptionsPage"=dword:00000007
 
 [HKEY_CURRENT_USER\Software\High-Logic\FontCreator\13.0\Last Time]
 "File_0"="C:\\Users\\orangecheng\\Desktop\\my-project\\myHgungseo\\???·¢.fcp"
@@ -113,6 +119,27 @@ REGEDIT4
 "VectorImageEPSOriginY"=hex:00,00,00,00,00,c0,82,40
 "AlwaysCreateBackupCopy"=dword:00000000
 "PanoseValueHexadecimal"=dword:00000000
+"DefaultZoomFactor"=hex:9a,99,99,99,99,99,b9,3f
+"VectorImageEPSForceRepositioning"=dword:00000000
+"DefaultNamingCopyrightIncluded"=dword:00000001
+"DefaultNamingTrademarkIncluded"=dword:00000000
+"DefaultNamingLicenseAgreementIncluded"=dword:00000000
+"DefaultNamingLicenseAgreementLinkIncluded"=dword:00000000
+"DefaultVendorIDIncluded"=dword:00000001
+"DefaultVendorIncluded"=dword:00000000
+"DefaultVendorURLIncluded"=dword:00000000
+"DefaultNamingFontDesignerIncluded"=dword:00000000
+"DefaultNamingFontDesignerLinkIncluded"=dword:00000000
+"DefaultNamingCopyrightText"="Typeface c (your company). <year>. All Rights Reserved"
+"DefaultNamingTrademarkText"="<font family>R Trademark of (your company)."
+"DefaultPersFontEmbeddingItemID"=dword:00000000
+"DefaultPersVendorIDText"="HL  "
+"DefaultPersVendorText"=""
+"DefaultPersVendorURLText"=""
+"DefaultNamingLicenseAgreementText"=""
+"DefaultNamingLicenseAgreementLinkText"="http://www.yoursite.com/licenseagreement.html"
+"DefaultNamingFontDesignerText"=""
+"DefaultNamingFontDesignerLinkText"="http://www.yoursite.com/fontdesigner.html"
 
 [HKEY_CURRENT_USER\Software\High-Logic\FontCreator\13.0\Position]
 
@@ -123,7 +150,7 @@ REGEDIT4
 "Position"="691,557"
 
 [HKEY_CURRENT_USER\Software\High-Logic\FontCreator\13.0\Position\Main Window]
-"Position"="0,0,110,60,1728,929"
+"Position"="0,0,134,98,1728,929"
 
 [HKEY_CURRENT_USER\Software\High-Logic\FontCreator\13.0\Position\Toolbars]
 
@@ -294,13 +321,13 @@ REGEDIT4
 
 [HKEY_CURRENT_USER\Software\High-Logic\FontCreator\13.0\Position\Toolbars\twFindCharacter]
 "Rev"="2000"
-"Visible"="1"
+"Visible"="0"
 "DockedTo"="+"
 "LastDock"=""
 "DockRow"="0"
 "DockPos"="-1"
-"FloatLeft"="320"
-"FloatTop"="557"
+"FloatLeft"="232"
+"FloatTop"="505"
 "ClientWidth"="326"
 "ClientHeight"="147"
 
@@ -439,6 +466,14 @@ REGEDIT4
 "DiagonalRedundantOffCurvePointsDetection"=dword:00000000
 "MaximumRedundantOnCurvePointsDistance"=hex:9a,99,99,99,99,99,e9,3f
 "MaximumRedundantOffCurvePointsDistance"=hex:9a,99,99,99,99,99,c9,3f
+
+[HKEY_CURRENT_USER\Software\High-Logic\FontCreator\13.0\Warn]
+"WarnBeforeExecutingGlyphTransformProgram"=dword:00000001
+"WarnWhenOpening10OrMoreFonts"=dword:00000001
+"WarnWhenProcessingVOLTTable"=dword:00000001
+"WarnBeforeCloseOpenTypeDesigner"=dword:00000001
+"WarnBeforeAnchorDelete2"=dword:00000001
+"WarnImportSmallImage"=dword:00000001
 
 [HKEY_CURRENT_USER\Software\High-Logic\FontCreator\14.0]
 
