@@ -6,7 +6,7 @@ REGEDIT4
 
 [HKEY_CURRENT_USER\Software\High-Logic\FontCreator\13.0\AddCharacters]
 "SelectedFont"="Agency FB"
-"SelectedCharacter"=dword:000094e6
+"SelectedCharacter"=dword:0000578d
 
 [HKEY_CURRENT_USER\Software\High-Logic\FontCreator\13.0\Background]
 "BackgroundInitColor"=dword:0000ffff
@@ -60,7 +60,7 @@ REGEDIT4
 "CompleteCompositesAction"=dword:00000001
 "GlyphPropsExpanded"=dword:00000000
 "OpenDialogInitialDir2"="C:\\Users\\orangecheng\\Desktop\\my-project\\myHgungseo\\"
-"ChildWindowState"=dword:00000002
+"ChildWindowState"=dword:00000000
 "OverviewGridZoom"=hex:00,00,00,00,00,00,f0,3f
 "OverviewFontZoom"=dword:0000002f
 "OverviewSampleFont"="Arial"
@@ -321,13 +321,13 @@ REGEDIT4
 
 [HKEY_CURRENT_USER\Software\High-Logic\FontCreator\13.0\Position\Toolbars\twFindCharacter]
 "Rev"="2000"
-"Visible"="0"
+"Visible"="1"
 "DockedTo"="+"
 "LastDock"=""
 "DockRow"="0"
 "DockPos"="-1"
-"FloatLeft"="232"
-"FloatTop"="505"
+"FloatLeft"="487"
+"FloatTop"="607"
 "ClientWidth"="326"
 "ClientHeight"="147"
 
